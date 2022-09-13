@@ -1,0 +1,5 @@
+1. git checkout -b FILE_NAME
+2. Fast-forward merges work in a chronological order. Whereas recursive is two different input over the same time. 
+3. git checkout BRANCH_NAME
+4. Git branch -d BRANCH_NAME
+5. When two different branches have differing data but the same variable, functions name etc.
